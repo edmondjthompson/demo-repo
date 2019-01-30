@@ -3,3 +3,6 @@ mvc proj
 
 master 
 new stuffffff
+
+## maintainer
+ + Eddie T
